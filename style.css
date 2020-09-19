@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+}
+
+.wrapper {
+    height: 100%;
+    weidth: 100%;
+    background-color: rgb(224, 184, 184);
+    padding: 20px 20px 20px 20px;
+}
+
+.block {
+    /*height: 80vh;
+weight: 80rem;*/
+    border: 1px dotted #000;
+    background-color: white;
+    margin: 20px 20px 20px 20px;
+    padding: 3% 2% 3% 2%;
+}
+
+.title {
+    margin: 0% 2% 3% 2%;
+    padding: 20px 40px 20px 40px;
+    border: 1px dotted #000;
+}
+
+.format_image {
+    height: 30vh;
+    margin-left: 20px;
+    border: 1px dotted #000;
+}
+
+.contact_info {
+    display: inline-block;
+    margin-right: 20px 20px;
+    margin: 2% 0% 3% 20%;
+    border: 1px dotted #000;
+}
+
+.head1 {
+    text-align: center;
+    color: red;
+}
+
+.head3 {
+    text-align: center;
+}
+
+.subtitle {
+    font-weight: bold;
+    color: red;
+}
+
+.level1 {
+    font-weight: normal;
+    color: black;
+}
+
+.level2 {
+    font-weight: normal;
+    color: black;
+}
